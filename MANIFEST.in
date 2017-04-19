@@ -1,0 +1,12 @@
+include CHANGES.txt
+include requirements.txt
+include bootstrap
+include MANIFEST.in
+include README.txt
+recursive-include scripts *
+recursive-include tests *
+recursive-include docs *
+recursive-include dev *
+global-exclude *.pyc
+global-exclude *.pyo
+include Makefile

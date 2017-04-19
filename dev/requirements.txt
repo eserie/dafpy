@@ -1,0 +1,4 @@
+# For development only:
+pytest >= 2.5.2
+coverage >= 3.7.1
+pytest-cov >= 1.6

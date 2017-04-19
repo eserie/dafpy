@@ -1,0 +1,16 @@
+venv*/*
+*egg-info/
+TAGS
+*.pyc
+docs/_build/*
+dafpy.egg-info/*
+htmlcov/*
+*,cover
+*xml
+*html
+.idea/*
+.coverage
+*~
+*.svg
+*.png
+*.png
